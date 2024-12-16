@@ -1,6 +1,6 @@
-# DS24 Open Lab | Hands-On with Google AI Studio: From Gemini Models to Advanced Prompting
+# DS24 Open Lab | Google AI Studio: From Gemini Models to Advanced Prompting
 
-This repository contains the lab for demonstrating Hands-On with Google AI Studio: From Gemini Models to Advanced Prompting. It is one of the labs brought to you by Miracle's Innovation Labs.
+This repository contains the lab for demonstrating Hands-On with Google AI Studio: From Gemini Models to Advanced Prompting. It is one of the open labs brought to you by Miracle's Innovation Labs.
 
 ## Technologies Overview
 
@@ -12,7 +12,7 @@ The following are the technologies that are used in this lab. Any prior knowledg
 
 ## Important Links
 
-• Access Google AI Studio through https://aistudio.google.com/
+• Access Google AI Studio - https://aistudio.google.com/
 
 ## Repository Contents
 
